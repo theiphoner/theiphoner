@@ -7,8 +7,6 @@
 <br/>
 <br/>
 
-<img align="right" height="250" width="400" alt="GIF" src=""/>
-
 
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
